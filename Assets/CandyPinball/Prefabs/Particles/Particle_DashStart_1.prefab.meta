@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 904eb0868e2a1c7449175947a443c850
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Particles/Particle_DashStart_1.prefab
+  uploadId: 689457

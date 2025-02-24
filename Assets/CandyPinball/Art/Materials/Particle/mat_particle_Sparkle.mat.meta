@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3d4ce9742552434aad1f1027d572e8e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Art/Materials/Particle/mat_particle_Sparkle.mat
+  uploadId: 689457

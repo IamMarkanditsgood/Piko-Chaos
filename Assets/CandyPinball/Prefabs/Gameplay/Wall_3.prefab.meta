@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 789518660db2b6346aab23544a6084ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/Wall_3.prefab
+  uploadId: 689457

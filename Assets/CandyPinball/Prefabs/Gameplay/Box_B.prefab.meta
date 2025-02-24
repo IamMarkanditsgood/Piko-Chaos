@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 556c0b7e20c5ed248bdc178cd85beff9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/Box_B.prefab
+  uploadId: 689457

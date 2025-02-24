@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c94454eb9ace764491d4bb18e6e62fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/ScriptableObjects/MainDataStorage.asset
+  uploadId: 689457

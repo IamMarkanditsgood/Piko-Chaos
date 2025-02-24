@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f04dd0cf03ca3d4a86c6802b4e90b0b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Art/Materials/Particle/Mat_Trail_AlphaBlend.mat
+  uploadId: 689457

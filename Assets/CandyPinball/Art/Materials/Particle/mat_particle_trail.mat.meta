@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72f98c1db16686a4e8c7ca6211fe457d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Art/Materials/Particle/mat_particle_trail.mat
+  uploadId: 689457

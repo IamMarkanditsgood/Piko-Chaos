@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dccd3150a00970546b938cacdee54467
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Scripts/Gameplay/TempSoundControl.cs
+  uploadId: 689457

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 71012aace7f09ae49a429621b5510a04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Scripts/Gameplay/BallPack.cs
+  uploadId: 689457

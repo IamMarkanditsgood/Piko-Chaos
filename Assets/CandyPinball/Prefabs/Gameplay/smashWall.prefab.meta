@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ffef7b4d44b40748bcac9ee069b96b4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/smashWall.prefab
+  uploadId: 689457

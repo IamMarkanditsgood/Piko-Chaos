@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: def46892b2c4c6d4cb49c85eacf6316f, type: 3}
+  m_Name: MainDataStorage
+  m_EditorClassIdentifier: 
+  Key: 0
+  Coin: 3185
+  LevelCoin: 40
+  Skin: 1
+  Outfit: 1
+  EnemyOutfit: 8
+  Ball: 1
+  Trails: 0
+  GoldBar: 2
+  LevelNumber: 0
+  UnlockedLevelNumber: 25
+  m_UnlockCounter: 0
+  m_NewUnlock: 0
+  m_UnlockLevels: 
+  Unlocks_Outfits: 0101000100000000000000
+  Unlocks_Balls: 010100000000000000000000
+  Unlocks_Skins: 0101000000000000
+  Purchased_Skins: 01000000
+  MuteMusic: 0
+  m_TotalLevelCount: 47
+  m_LastPrice_Outfit: 1100
+  m_LastPrice_Ball: 1100
+  m_LastPrice_Skin: 1100
+  FullVersion: 0

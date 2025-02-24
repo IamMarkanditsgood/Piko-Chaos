@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2366c0b0c7e326d4c97ac84988847be0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Particles/Particle_HitBall_1.prefab
+  uploadId: 689457

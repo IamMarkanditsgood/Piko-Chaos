@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83426e42869985541bde0e01506ce573
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Particles/Particle_PickGold.prefab
+  uploadId: 689457

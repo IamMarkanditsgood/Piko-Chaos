@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7fc6645c98ac3ea48be94f3528eecc4c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/Multiplier_x5.prefab
+  uploadId: 689457

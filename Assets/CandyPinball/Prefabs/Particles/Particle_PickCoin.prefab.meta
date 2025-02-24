@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20224b4210de3644fb8c9c6446acf795
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Particles/Particle_PickCoin.prefab
+  uploadId: 689457

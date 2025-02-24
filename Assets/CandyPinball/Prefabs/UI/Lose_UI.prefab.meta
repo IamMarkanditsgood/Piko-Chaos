@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 64a0a79d398733a4aab630db81dc6bcb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/UI/Lose_UI.prefab
+  uploadId: 689457

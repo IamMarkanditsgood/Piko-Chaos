@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa137ec9a9097094aba6f7caf26955cc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/ScoreParticle2.prefab
+  uploadId: 689457

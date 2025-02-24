@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec4c9d230dc35df4986250fbe07414b6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Particles/Particle_TeammateHit_1.prefab
+  uploadId: 689457

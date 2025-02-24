@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 847ea9388eb2532428d9b685c42959a7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/Pusher1.prefab
+  uploadId: 689457

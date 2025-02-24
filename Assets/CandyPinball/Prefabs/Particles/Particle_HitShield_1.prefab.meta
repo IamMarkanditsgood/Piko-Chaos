@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd58b1840a8f4e54085707f84b067067
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Particles/Particle_HitShield_1.prefab
+  uploadId: 689457

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7fa0cd401affc3b42855a1400b7e9c39
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/Throw.prefab
+  uploadId: 689457

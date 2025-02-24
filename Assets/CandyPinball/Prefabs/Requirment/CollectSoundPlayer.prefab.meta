@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89f337c912b2ade45b4f26baec168ea2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Requirment/CollectSoundPlayer.prefab
+  uploadId: 689457

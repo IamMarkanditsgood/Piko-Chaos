@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c642f221fe284e64c84c9379c2525645
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/Particle_Spawn_1.prefab
+  uploadId: 689457

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 236eb468cc37e1e45810fc65f56b2ae2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/PhysicMaterials/Wall.physicMaterial
+  uploadId: 689457

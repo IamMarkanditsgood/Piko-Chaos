@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35835d4788bf781458bf2b6a22d94a10
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/SmallBall.prefab
+  uploadId: 689457

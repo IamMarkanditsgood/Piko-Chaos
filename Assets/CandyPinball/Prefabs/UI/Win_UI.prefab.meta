@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba405a7303b07d14d875faf160637a8e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/UI/Win_UI.prefab
+  uploadId: 689457

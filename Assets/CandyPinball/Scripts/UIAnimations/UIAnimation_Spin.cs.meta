@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eb56fc00d9d22574f82939bfc5139a61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Scripts/UIAnimations/UIAnimation_Spin.cs
+  uploadId: 689457

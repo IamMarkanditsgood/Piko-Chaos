@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa08453fac7d98640b95b1f6b3509a8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Art/Materials/Particle/mat_particle_Light2.mat
+  uploadId: 689457

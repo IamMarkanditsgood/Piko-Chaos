@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b3fd98660e99474c8cebc75e782df22
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/Wall_Destruct_1.prefab
+  uploadId: 689457

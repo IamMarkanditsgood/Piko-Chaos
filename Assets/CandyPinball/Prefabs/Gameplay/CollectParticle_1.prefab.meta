@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a1441ace80ce2d44bbc7fb67338fd15
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/CollectParticle_1.prefab
+  uploadId: 689457

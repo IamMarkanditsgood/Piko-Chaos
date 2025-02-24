@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7220f7ea849806142a13b91f980beaef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Particles/Particle_Jump_1.prefab
+  uploadId: 689457

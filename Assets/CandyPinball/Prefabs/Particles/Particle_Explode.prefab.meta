@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce3d6089d703e4d4288c3718e9062acd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Particles/Particle_Explode.prefab
+  uploadId: 689457

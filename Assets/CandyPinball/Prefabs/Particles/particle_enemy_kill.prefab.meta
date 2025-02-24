@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b95d5510c1f0ff439740599b635a5d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Particles/particle_enemy_kill.prefab
+  uploadId: 689457

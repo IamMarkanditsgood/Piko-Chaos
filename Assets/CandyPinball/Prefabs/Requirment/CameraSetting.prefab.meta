@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53c9b453b363c34469199183128ddf9f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Requirment/CameraSetting.prefab
+  uploadId: 689457

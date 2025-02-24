@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce340da3e7e4991449b9cb1f161b0d74
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Prefabs/Gameplay/Particle_Shoot_1.prefab
+  uploadId: 689457

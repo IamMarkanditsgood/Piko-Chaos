@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 204ccfb77a44fe545b35479ba333b9cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -20
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295065
+  packageName: Candy Pinball - Complete Game Template
+  packageVersion: 1.0
+  assetPath: Assets/CandyPinball/Scripts/Gameplay/CameraControl.cs
+  uploadId: 689457
