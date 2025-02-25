@@ -60,8 +60,10 @@ namespace JSG.Project_Pinball.UI
             //TapsellPlusControl.MainTapsellPlusControl.RequestIntersetialBannerAd();
             //YodaMainControl.MainYodoControl.ShowIntersetial();
             //UIControl.Current.TransitionOut();
-            Application.Quit();
+            //Application.Quit();
             //GameControl.Current.RestartLevel();
+
+            SceneManager.LoadScene("Menu");
         }
 
         //public void BtnSkip()

@@ -28,18 +28,28 @@ namespace JSG.Project_Pinball.UI
 
         void Start()
         {
+            m_Retry.onClick.AddListener(Restart);
             m_CoinAmount.text = m_DataStorage.Coin.ToString();
         }
 
         void Update()
         {
 
-                m_Level.text = "Level " + (m_DataStorage.LevelNumber + 1).ToString();
+                //m_Level.text = "Level " + (m_DataStorage.LevelNumber + 1).ToString();
             
 
-            m_CoinAmount.text = (m_DataStorage.Coin).ToString();
+            //m_CoinAmount.text = (m_DataStorage.Coin).ToString();
         }
 
+        private void OnDestroy()
+        {
+            m_Retry.onClick.RemoveAllListeners();
+        }
+
+        public void Restart()
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
 
         public void Yes()
         {

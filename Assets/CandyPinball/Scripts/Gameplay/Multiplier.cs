@@ -35,6 +35,14 @@ namespace JSG.Project_Pinball.Gameplay
             {
                 if (coll.gameObject.tag == "Player")
                 {
+                    if (!SaveManager.PlayerPrefs.IsSaved(GameSaveKeys.FirstAchieve))
+                    {
+                        SaveManager.PlayerPrefs.SaveInt(GameSaveKeys.FirstAchieve, 1);
+                    }
+                    if (!SaveManager.PlayerPrefs.IsSaved(GameSaveKeys.FirstTask))
+                    {
+                        SaveManager.PlayerPrefs.SaveInt(GameSaveKeys.FirstTask, 1);
+                    }
                     GameObject obj = Instantiate(m_ScoreParticle);
                     obj.transform.position = transform.position;
                     Destroy(obj, 2);

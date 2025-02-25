@@ -29,20 +29,28 @@ namespace JSG.Project_Pinball.UI
 
         void Start()
         {
-
+            m_Continue.onClick.AddListener(LoadNextScene);
         }
 
-        void Update()
+
+        private void OnEnable()
         {
-            m_Level.text = "Level " + (m_DataStorage.LevelNumber + 1).ToString();
-
-            m_CoinAmount.text = (m_DataStorage.Coin).ToString();
+            int _currentLevel = SaveManager.PlayerPrefs.LoadInt(GameSaveKeys.CurrentLevel);
+            m_Level.text = "Level " + (_currentLevel + 1) + " completed";
+            SaveManager.PlayerPrefs.SaveInt(GameSaveKeys.CurrentLevel, (_currentLevel + 1));
+            TextManager textManager = new TextManager();
+            textManager.SetText(m_DataStorage.Coin, m_CoinAmount, true, "+");
+            ResourcesManager.Instance.ModifyResource(ResourceTypes.Coins, m_DataStorage.Coin);
         }
 
+        private void OnDestroy()
+        {
+            m_Continue.onClick.RemoveAllListeners();    
+        }
 
 
         public void Continue()
-        {
+        {/*
             if (m_DataStorage.CheckInternet())
             {
                 Invoke("LoadNextScene", 1);
@@ -50,20 +58,26 @@ namespace JSG.Project_Pinball.UI
             else
             {
                 LoadNextScene();
-            }
+            }*/
 
         }
         private void LoadNextScene()
         {
-
-            m_DataStorage.LevelNumber++;
-            if (m_DataStorage.LevelNumber > 30)
+            if (SaveManager.PlayerPrefs.LoadInt(GameSaveKeys.CurrentLevel) < 10)
             {
-                m_DataStorage.LevelNumber = 2;
-            }
-            m_DataStorage.SaveData();
+                m_DataStorage.LevelNumber++;
+                if (m_DataStorage.LevelNumber > 30)
+                {
+                    m_DataStorage.LevelNumber = 2;
+                }
+                m_DataStorage.SaveData();
 
-            SceneManager.LoadScene(m_DataStorage.LevelNumber + 1);
+                SceneManager.LoadScene(m_DataStorage.LevelNumber + 1);
+            }
+            else
+            {
+                SceneManager.LoadScene("Menu");
+            }
         }
         public void Restart()
         {
